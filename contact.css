@@ -1,0 +1,45 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 1100px;
+}
+form
+{
+    border: solid 1px aqua hidden;
+    width: 500px;
+    padding-left: 10px;
+    margin-left: 100px
+}
+h1{
+    color: aqua;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: chartreuse;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 20px;
+}
+textarea{
+    width: 350px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    font-size:  22px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+button:hover{
+    background-color: aqua;
+}
